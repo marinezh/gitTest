@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is new file
 
 Changes for one branch, file 5
@@ -7,4 +8,10 @@ changes to check how pull is working
 WWWWWWWWWWWWWWWW
 SSSSSSSSSSSSSSSS
 KKKKKKKKKKKKKKKK
+
+
+
+ÄÄÄÄÄÄÄÄÄÄÄ
+ÖÖÖÖÖÖÖÖÖÖÖ
+ÅÅÅÅÅÅÅÅÅÅÅ
 
